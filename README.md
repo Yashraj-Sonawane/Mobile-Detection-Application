@@ -1,9 +1,5 @@
 # Mobile Recommendation System
 
-![License](https://img.shields.io/github/license/yourusername/Mobile-Recommendation-System)
-![Issues](https://img.shields.io/github/issues/yourusername/Mobile-Recommendation-System)
-![Stars](https://img.shields.io/github/stars/yourusername/Mobile-Recommendation-System)
-
 ## Overview
 
 The **Mobile Recommendation System** is a project designed to recommend mobile phones to users based on their preferences and needs. It leverages machine learning algorithms to analyze user data and provide personalized suggestions. This system is built to help consumers make informed decisions when purchasing a mobile phone.
