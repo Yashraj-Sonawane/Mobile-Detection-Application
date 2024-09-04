@@ -1,5 +1,7 @@
 # Mobile Recommendation System
 
+![License](https://img.shields.io/github/license/Yashraj-Sonawane/Mobile-Recommendation-System)
+
 ## Overview
 
 The **Mobile Recommendation System** is a project designed to recommend mobile phones to users based on their preferences and needs. It leverages machine learning algorithms to analyze user data and provide personalized suggestions. This system is built to help consumers make informed decisions when purchasing a mobile phone.
@@ -16,3 +18,4 @@ The **Mobile Recommendation System** is a project designed to recommend mobile p
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Mobile-Recommendation-System.git
+
