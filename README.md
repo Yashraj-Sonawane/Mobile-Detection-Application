@@ -17,5 +17,5 @@ The **Mobile Recommendation System** is a project designed to recommend mobile p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Mobile-Recommendation-System.git
+   git clone https://github.com/Yashraj-Sonawane/Mobile-Recommendation-System.git
 
