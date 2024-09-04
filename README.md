@@ -1,6 +1,6 @@
 # Mobile Recommendation System
 
-![License](https://img.shields.io/github/license/Yashraj-Sonawane/Mobile-Recommendation-System)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Overview
 
