@@ -2,6 +2,8 @@
 
 ## License
 
+![GitHub License](https://img.shields.io/github/license/Yashraj-Sonawane/Mobile-Recommendation-Application)
+
 This project is licensed under the GPL 3.0 - see the [LICENSE](LICENSE) file for details.
 
 
