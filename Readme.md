@@ -1,5 +1,10 @@
 # Mobile Recommendation System
 
+## License
+
+This project is licensed under the GPL 3.0 - see the [LICENSE](LICENSE) file for details.
+
+
 ## Overview
 
 The **Mobile Recommendation System** is an application designed to help users find the perfect mobile device based on their preferences such as budget, brand, and desired features like battery capacity, camera quality, and more. The system utilizes a recommendation algorithm to suggest mobile phones, making it easier for users to navigate through the vast number of available options.
