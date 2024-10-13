@@ -1,21 +1,59 @@
-# Mobile Recommendation System
+# MobileRecommenderSystem 📲
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+#### Try it out by yourself! - https://mobile-recommender-system-gyanprakashkushwaha.streamlit.app/
+---
 
-## Overview
+# Demo
 
-The **Mobile Recommendation System** is a project designed to recommend mobile phones to users based on their preferences and needs. It leverages machine learning algorithms to analyze user data and provide personalized suggestions. This system is built to help consumers make informed decisions when purchasing a mobile phone.
+https://github.com/GyanPrakashkushwaha/MobileRecommenderSystem/assets/127115588/2cda816b-169c-4383-8c7e-c980be27a2ae
+
+
+## About
+
+The model promptly showcase the most closely related mobile phones based on selection.The recommendation system leverages similarity metrics to identify and present the mobile phones with the highest similarity to the chosen device, enabling to explore alternatives that align with the preferences and requirements.
 
 ## Features
 
-- **User Preferences Analysis:** Gather user preferences such as brand, price range, features, etc.
-- **Machine Learning Algorithms:** Use algorithms like collaborative filtering and content-based filtering for recommendations.
-- **Interactive User Interface:** A responsive UI that allows users to input their preferences and view recommendations.
-- **Data Visualization:** Visual representation of the recommendation process and analytics.
+List the key features and functionalities of your project. This could be a bulleted or numbered list.
 
-## Installation
+- showcase most similar mobile phones based on selection.
+- Showcase mobiles randomly to explore other mobiles as well.
+
+
+
+## Cloning and Running
+To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yashraj-Sonawane/Mobile-Recommendation-System.git
+   
+```python
+git clone https://github.com/GyanPrakashkushwaha/MobileRecommenderSystem.git
+```
+
+2. Navigate to the project directory:
+
+```python
+cd MobileRecommenderSystem
+```
+3. Create virtaul environment and activate it.
+```python
+virtalenv movieVenv 
+movieVenv/Scipts/activate.ps1
+```
+
+
+3. Install the required dependencies:
+```python
+pip install -r requirements.txt
+```
+   
+4. Run the the streamlit app:
+```python
+python app.py
+```
+
+## Usage
+
+If you are to buy a new mobile phone you can use this to find similar mobiles
+
 
